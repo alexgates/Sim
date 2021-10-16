@@ -8,7 +8,7 @@ from ctypes import sizeof
 # testing code
 # how does it look
 #Init
-
+#this is me
 lsDLC=[]
 lsTimeStep=[]
 RigForce1=[]
