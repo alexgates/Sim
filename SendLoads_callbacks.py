@@ -15,7 +15,7 @@ lsRigForce3=[]
 bStart=1
 bInterrupt=None
 nState=0
-#
+
 
 if nState==0:
         sFilePath="C:\svn-sandbox\AR1500-Control\Scripts\PythonADS\sin_load_35kN_1sec.csv"
